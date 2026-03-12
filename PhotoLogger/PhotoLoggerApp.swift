@@ -11,7 +11,7 @@ import SwiftUI
 struct PhotoLoggerApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LogListView()
         }
     }
 }
